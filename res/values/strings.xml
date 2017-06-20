@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFirstAndroidProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<!-- 短信发送器 -->
+	<string name="sms_phone_title">请输入手机号</string>
+	<string name = "sms_content_title">请输入短信内容</string>
+	<string name="sms_button_title">发送</string>
+	<string name="sms_success">发送成功</string>
+	<!-- 页面布局-表格布局 -->
+	<string name="table_feild1">姓名</string>
+	<string name="table_feild2">籍贯</string>
+	<string name="user1_name">张三</string>
+	<string name="user1_city">北京</string>
+	<string name="user2_name">李四</string>
+	<string name="user2_city">天津</string>
+	<string name="user3_name">王五</string>
+	<string name="user3_city">上海</string>
+</resources>
